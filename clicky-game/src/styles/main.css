@@ -34,13 +34,7 @@ body {
   .justify-center {
     text-align: center;
   }
-  
-  .timer {
-    color: #5168e9;
-    font-size: 20px;
-    font-weight: bold;
-  }
-  
+
   .restart-button {
     width: 15em;
     height: 3em;
